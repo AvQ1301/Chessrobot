@@ -1,0 +1,6 @@
+numpy
+opencv-python
+albumentations
+pyyaml
+pycocotools
+pycocotools
