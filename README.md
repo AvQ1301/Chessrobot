@@ -1,2 +1,7 @@
 # Chessrobot
-Robot chơi cờ tướng 
+
+
+Robot Chess 307 
+- AI
+- control
+
